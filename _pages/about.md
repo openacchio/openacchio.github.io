@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://www.uab.cat/ca/ciencies-computacio/recerca-ciencies-computacio">Universitat Aut@ograveonoma de Barcelona, Computer Science Department</a> • <a target="_blank" href="https://www.st-andrews.ac.uk/psychology-neuroscience/">University of St Andrews, Psychology and Neuroscience</a>.
+subtitle: <a href="https://www.uab.cat/ca/ciencies-computacio/recerca-ciencies-computacio">Universitat Autònoma de Barcelona, Computer Science Department</a> • <a target="_blank" href="https://www.st-andrews.ac.uk/psychology-neuroscience/">University of St Andrews, Psychology and Neuroscience</a>.
 description: Data science, biological modelling, sensory ecology, vision.
 
 profile:
