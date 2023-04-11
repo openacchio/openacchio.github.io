@@ -2,14 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href="https://www.uab.cat/ca/ciencies-computacio/recerca-ciencies-computacio">Universitat Aut\`onoma de Barcelona, Computer Science Department</a> • <a target="_blank" href="https://www.st-andrews.ac.uk/psychology-neuroscience/">University of St Andrews, Psychology and Neuroscience</a>.
+description: Data science, biological modelling, sensory ecology, vision.
 
 profile:
   align: right
   image: penacchio-w640.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>op5 [guess what] st-andrews.ac.uk</p>
+    <p>op5 [guess] st-andrews.ac.uk</p>
     
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
