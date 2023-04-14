@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Natural environments shape sensory systems during evolution and development. My core research interest is to understand how the tight relationship between natural environments and sensory systems affects perception and signalling. My research covers questions such as the evolution of warning signals, a class of signals used by animals to advertise their toxicity or unprofitability, or the effects of urban environments on the human visual system. 
+Natural environments shape sensory systems during evolution and development. My core research interest is to understand how the tight relationship between natural environments and sensory systems affects perception and signalling. My research covers questions such as the evolution of warning signals (a class of signals used by animals to advertise their toxicity or unprofitability), or the effects of urban environments on the human visual system. 
 
 I am very open to suggestions, new ideas, and collaborations. The best way to reach me is by email. 
 
